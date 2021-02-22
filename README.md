@@ -1,2 +1,2 @@
 # Birthday-Calculator
-This is to calculate the day 
+This is to calculate the day you were born.
